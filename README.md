@@ -1,6 +1,6 @@
 # WorkWIthAI
 
-You need to have python installed first.
+You need to have python3.x installed first.
 
 Needed python modules:
 torch
